@@ -1,6 +1,6 @@
 # ABOUTME
 👋 Hi, I’m Omar Hamdan
-I’m a Computer Science major at Northern Virginia Community College, graduating early in December 2025, and planning to transfer to Virginia Tech. I’m passionate about back-end development, problem-solving, and building tools that make daily routines more productive and meaningful.
+I’m a Computer Science major at Northern Virginia Community College, graduating spring of 2026, and planning to transfer to Virginia Tech. I’m passionate about back-end development, problem-solving, and building tools that make daily routines more productive and meaningful.
 
 About Me
 - Focused on becoming a Back-End Software Engineer
