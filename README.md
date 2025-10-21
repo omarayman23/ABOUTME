@@ -3,7 +3,7 @@
 I’m a Computer Science major at Northern Virginia Community College, graduating spring of 2026, and planning to transfer to Virginia Tech. I’m passionate about back-end development, problem-solving, and building tools that make daily routines more productive and meaningful.
 
 About Me
-- Focused on becoming a Back-End Software Engineer
+- Full-stack developer
 - Skilled in Java, Python, JavaScript, HTML, React, Node.js, ET
 - Experienced in creating real-world apps that blend functionality with clean design
 - Over 4 years of work experience in fast-paced environments (most recently at ABM Industries)
