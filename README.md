@@ -20,9 +20,9 @@ https://calc-wiz.vercel.app/
 https://photo-alarm-yfw7-rmg64j1y6-omar-hs-projects-cf8ee844.vercel.app/
 
 Open source contributions: 
-https://github.com/firstcontributions/first-contributions
+https://github.com/omarayman23/openSourceContributions
+
 
 📫 Connect With Me
 Email: o.18hamdan@outlook.com
 LinkedIn: www.linkedin.com/in/omar-hamdan-74674933b
-Portfolio: [COMING SOON]
