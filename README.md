@@ -4,9 +4,9 @@ I’m a Computer Science major at Northern Virginia Community College, graduatin
 
 ## OMAR HAMDAN
 - Full-stack developer
-- Skilled in Java, Python, JavaScript, HTML, React, Node.js, ET
+- Skilled in Java, Python, JavaScript, HTML, React & Native, Node.js, CSS, Docker, Azure, Firebase, etc
 - Experienced in creating real-world apps that blend functionality with clean design
-- Over 4 years of work experience in fast-paced environments (most recently at ABM Industries)
+- Over 4 years of work experience (most recently at ABM Industries)
 - Overcame a major injury in 2024 while staying on track with studies and projects
 
 ## 📂 Featured Projects
