@@ -7,7 +7,6 @@ I’m a Computer Science major at Northern Virginia Community College, graduatin
 - Skilled in Java, Python, JavaScript, HTML, React & Native, Node.js, CSS, Docker, Azure, Firebase, etc
 - Experienced in creating real-world apps that blend functionality with clean design
 - Over 4 years of work experience (most recently at ABM Industries)
-- Overcame a major injury in 2024 while staying on track with studies and projects
 
 ## 📂 Featured Projects
 - coverLetter.ai - Imbedded with Google AI. AI generates 3 different options for each paragraph (open/body/close) based on information by the user.
